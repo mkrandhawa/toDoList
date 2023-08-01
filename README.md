@@ -25,10 +25,12 @@ Navigate to the repository folder:
 vbnet
 
 <p>cd interactive-to-do-list
+
 ---
 <h5>Install the required dependencies:</h5>
 
 <p>npm install
+
 ---
 <h5>Set up MongoDB:</h5>
 
@@ -37,6 +39,7 @@ Create a new database for the application, e.g., "todo_app_db".
 Configure the MongoDB connection URI in the app.js file.
 
 ---
+
 <h5>Run the application locally:</h5>
 node app.js
 Access the application in your web browser by visiting http://localhost:3000.
